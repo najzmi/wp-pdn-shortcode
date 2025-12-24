@@ -88,20 +88,20 @@ Tambahkan CSS berikut ke theme Anda:
 
 Plugin ini:
 
-Tidak menggunakan echo debug
-Tidak mengeluarkan output di luar widget
-Menggunakan sanitize_text_field, esc_html, dan wp_kses_post
-Tidak menutup tag ?> di akhir file
-Aman untuk REST API, Gutenberg, dan AJAX
+1. Tidak menggunakan echo debug
+2. Tidak mengeluarkan output di luar widget
+3. Menggunakan sanitize_text_field, esc_html, dan wp_kses_post
+4. Tidak menutup tag ?> di akhir file
+5. Aman untuk REST API, Gutenberg, dan AJAX
 
 ### Persyaratan
-WordPress 5.0 atau lebih baru
-PHP 7.4 atau lebih baru
+1. WordPress 5.0 atau lebih baru
+2. PHP 7.4 atau lebih baru
 
 ### Author
 Pudin Saepudin
-Website: https://italazhar.com
-Instagram : https://instagram.com/pudin.ira
+1. Website: https://italazhar.com
+2. Instagram : https://instagram.com/pudin.ira
 
 ### Lisensi
 Plugin ini dirilis di bawah lisensi GPL v2 atau lebih baru.
